@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This is a test for storage.
+Test for storage
 """
 from datetime import datetime
 import unittest
